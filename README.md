@@ -12,4 +12,4 @@ on XV6, a unix based small OS, which we will work on.
 16 weeks, two classes each week, exception on holidays.
 
 ## What?
-6labs, 19hws, 2 quizzes.
+6 labs, 19 hws, 2 quizzes.
